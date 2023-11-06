@@ -5,6 +5,7 @@
 
 # Objective
 - To understand how to quickly setup llm with huggingface models
+- To understand how to use langchain
 
 # Notes
 - huggingface models were used because they are opensource and free. OpenAI would be better, but they are chargeable. 
